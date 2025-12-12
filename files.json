@@ -3,5 +3,5 @@
   "DiscordRPC.dll",
   "Newtonsoft.Json.dll",
   "WindowsInput.dll",
-  "binder.json"
+  "template-binder.json"
 ]
