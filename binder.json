@@ -1,60 +1,86 @@
 {
-    "binders": {
-        "1": {
-            "name": "Лечу",
-            "text": [
-                "Иду.",
-                "Лечу.",
-                "Выдвигаюсь к Вам на помощь.",
-                "Сейчас постараюсь Вам помочь.",
-                "Вылетаю к Вам на помощь."
-            ],
-            "isEnabled": true,
-            "enter": true
-        },
-        "2": {
-            "name": "Да",
-            "text": [
-                "Да."
-            ],
-            "isEnabled": true,
-            "enter": true
-        },
-        "3": {
-            "name": "Нет",
-            "text": [
-                "Нет."
-            ],
-            "isEnabled": true,
-            "enter": true
-        },
-        "4": {
-            "name": "Поставлю метку",
-            "text": [
-                "Сейчас поставлю Вам метку, секунду.",
-                "Сейчас установлю Вам метку на карту, ожидайте."
-            ],
-            "isEnabled": true,
-            "enter": true
-        },
-        "5": {
-            "name": "Никак",
-            "text": [
-                "Никак."
-            ],
-            "isEnabled": true,
-            "enter": true
-        },
-        "6": {
-            "name": "Приятной игры.",
-            "text": [
-                "Приятной игры и хорошего настроения.❤️",
-                "Приятной игры на сервере.❤️",
-                "Приятной игры и хорошего время провождения на сервере.❤️"
-            ],
-            "isEnabled": true,
-            "enter": true
-        }
+  "binders": [
+    {
+      "name": "Лечу",
+      "text": [
+        "Иду.",
+        "Лечу.",
+        "Выдвигаюсь к Вам на помощь.",
+        "Сейчас постараюсь Вам помочь.",
+        "Вылетаю к Вам на помощь."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": false,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      }
+    },
+    {
+      "name": "Да",
+      "text": [
+        "Да."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": false,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      }
+    },
+    {
+      "name": "Нет",
+      "text": [
+        "Нет."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": false,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      }
+    },
+    {
+      "name": "Поставлю метку",
+      "text": [
+        "Сейчас поставлю Вам метку, секунду.",
+        "Сейчас установлю Вам метку на карту, ожидайте."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": false,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      }
+    },
+    {
+      "name": "Приятной игры.",
+      "text": [
+        "Приятной игры и хорошего настроения.❤️",
+        "Приятной игры на нашем сервере.❤️",
+        "Приятной игры и хорошего время провождения на нашем сервере.❤️"
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": false,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      }
     }
+  ]
 }
-
