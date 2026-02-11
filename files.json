@@ -1,10 +1,4 @@
 [
   "AdminBinder5RP.exe",
-  "DiscordRPC.dll",
-  "Newtonsoft.Json.dll",
-  "WindowsInput.dll",
-  "ColorPicker.dll",
-  "ColorPicker.Models.dll",
-  "Microsoft.Xaml.Behaviors.dll",
   "template-binder.json"
 ]
