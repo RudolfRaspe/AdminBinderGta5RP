@@ -1,0 +1,378 @@
+{
+  "ReportBinds": [
+    {
+      "name": "Лечу",
+      "text": [
+        "Иду.",
+        "Лечу.",
+        "Выдвигаюсь к Вам на помощь.",
+        "Сейчас постараюсь Вам помочь.",
+        "Вылетаю к Вам на помощь.",
+        "Лечу к Вам на помощь.",
+        "Иду к Вам на помощь.",
+        "Мчу к Вам на помощь."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FFFF009D"
+      }
+    },
+    {
+      "name": "Да",
+      "text": [
+        "Да."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FF555555"
+      }
+    },
+    {
+      "name": "Нет",
+      "text": [
+        "Нет."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FFFFFFFF"
+      }
+    },
+    {
+      "name": "Никак",
+      "text": [
+        "Никак."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#ff555555"
+      }
+    },
+    {
+      "name": "Поставлю метку",
+      "text": [
+        "Сейчас поставлю Вам метку, секунду.",
+        "Сейчас установлю Вам метку на карту, ожидайте."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#ff555555"
+      }
+    },
+    {
+      "name": "Не телепортируем",
+      "text": [
+        "Не телепортируем"
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#ff555555"
+      }
+    },
+    {
+      "name": "Не запрещено",
+      "text": [
+        "Не запрещено.",
+        "Правилами не запрещено."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FF555555"
+      }
+    },
+    {
+      "name": "Приятной игры.",
+      "text": [
+        "Приятной игры и хорошего настроения.❤️",
+        "Приятной игры на сервере Rockford.❤️",
+        "Приятной игры и хорошего время провождения на сервере Rockford.❤️"
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FF555555"
+      }
+    },
+    {
+      "name": "Нет нарушений.",
+      "text": [
+        "Во время наблюдений за игроком нарушений не заметил. При наличии доказательств нарушения Вы можете оставить жалобу на игрока, на сайте нашего проекта: https://gta5rp.com/user/report - Создать обращение - Тема обращения \"\"Жалобы на игроков\""
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FF555555"
+      }
+    },
+    {
+      "name": "При наличии док-в",
+      "text": [
+        "Если у Вас имеется видеофиксация нарушения, то Вы можете оставить жалобу на игрока по ссылке - https://gta5rp.com/user/report . Порядок следующий: Создать обращение -> Выбрать пункт \"\"Жалоба на игроков\" -> Ознакомиться с правилами подачи -> Заполнить все пустые поля. Важно! Пожалуйста, указывайте точные время и дату нарушения."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FF555555"
+      }
+    },
+    {
+      "name": "IC момент",
+      "text": [
+        "IC момент"
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#ff555555"
+      }
+    },
+    {
+      "name": "Проблема решена",
+      "text": [
+        "Видимо Ваша проблема уже решена. Приятной игры и хорошего настроения на сервере Rockford."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#ff555555"
+      }
+    },
+    {
+      "name": "Тех. раздел",
+      "text": [
+        "Обратитесь в тех. раздел на форуме проекта и прикрепите как можно больше доказательств https://gta5rp.com/user/report - Создать обращение - Тема обращения \"\"Технический вопрос проблема\""
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#ff555555"
+      }
+    },
+    {
+      "name": "Трейд Бан",
+      "text": [
+        "В такой ситуации вам необходимо обратиться в нашу поддержку по ссылке https://gta5rp.com/support. Отвечать нужно будет на то же письмо которое придет."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FF555555"
+      }
+    },
+    {
+      "name": "Опишите подробнее",
+      "text": [
+        "Опишите подробнее, что у Вас случилось?",
+        "Опишите суть вашего обращения в репорт, дабы мы смогли Вам помочь."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#ff555555"
+      }
+    },
+    {
+      "name": "Обжалование",
+      "text": [
+        "В случае, если Вы не согласны с выданным наказанием от администратора, то имеете право написать обжалование, перейдя по ссылке: https://gta5rp.com/user/report . Создать обращение -> Обжалование наказания -> Ознакомьтесь с правилами подачи -> Заполните все пустые поля."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FFFF0D00"
+      }
+    },
+    {
+      "name": "Уточните ID",
+      "text": [
+        "Уточните ID игрока"
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FFD122C3"
+      }
+    },
+    {
+      "name": "Окно Jackpot",
+      "text": [
+        "В случае, если Вы крутили колесо удачи в здании казино, то приз Вы сможете забрать в окне Jackpot, которое находится справа от окна пополнения фишек. Если колесо крутили через телефон, то предметы сможете получить в F10 → Подарки. Если это были деньги/фишки/DP, то они уже зачислены на ваш счет."
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FF00DB2E"
+      }
+    },
+    {
+      "name": "Найти жалобу",
+      "text": [
+        "Найти обращение, по которому вы наказаны, можно зайдя в личный кабинет на сайте https://gta5rp.com/user/report"
+      ],
+      "enabled": true,
+      "showInOverlay": true,
+      "ShowInKeybindOverlay": true,
+      "enter": true,
+      "counting": true,
+      "keybind": {
+        "Key": 0,
+        "Modifier": 0
+      },
+      "color": {
+        "enabled": false,
+        "hex": "#FFFF0D00"
+      }
+    }
+  ],
+  "ExtendedSettings": {}
+}
